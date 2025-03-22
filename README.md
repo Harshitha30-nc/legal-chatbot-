@@ -23,3 +23,6 @@ chatbot.py: Main chatbot logic
 Copy of act.xlsb(1).xlsx: Source data file
 
 output.json: JSON formatted output data
+ ///////////////////////////////////////
+
+### project not yet completed in progress ###
